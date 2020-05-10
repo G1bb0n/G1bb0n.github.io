@@ -1,13 +1,13 @@
-Raspberry Pi Data Page
+# Raspberry Pi Data Page
 
-Datensatz A
+## Datensatz A
 
-1
-2
-3
+1. X
+2. Y
+3. Z
 
-Datensatz B
+## Datensatz B
 
-1
-2
-3
+1. X
+2. Y
+3. Z
